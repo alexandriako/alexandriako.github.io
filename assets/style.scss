@@ -8,3 +8,12 @@
         "theme-{{ site.theme_color | default: "light" }}.scss"
         // "theme-{{ site.theme_fonts | default: "system" }}.scss"
 ;
+
+body {
+  background: url("./images/ocean.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  // -o-background-size: cover;
+  background-size: cover;
+  font-family: 'Karla', sans-serif;
+}
