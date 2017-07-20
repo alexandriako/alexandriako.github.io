@@ -22,7 +22,7 @@ comments: false
 ## Projects
 
 {% capture images %}
-    http://i.imgur.com/KraWiF5.jpg
-    http://i.imgur.com/RLfEzt6.png
+    http://i.imgur.com/MAoC3Ew.jpg
+    http://i.imgur.com/fOWmzzu.png
 {% endcapture %}
 {% include gallery images=images caption="Screenshots of Assignments" cols=2 %}
