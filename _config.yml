@@ -24,6 +24,10 @@ mathjax:            true
 sass:
   sass_dir:         _sass
   style:            compressed
+compress_html:
+  clippings: all
+  comments:  ["<!-- ", " -->"]
+  endings:   all
 
 # Comments
 disqus_shortname:   alexandriako
