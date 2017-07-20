@@ -13,7 +13,7 @@ html {
 }
 body {
 	@extend %extend1;
-	font-family: $font1;
+	font-family: $font2;
 	@include font-rem($doc-font-size);
 	color: $color_tuatara;
 	background-color: $bodycolor;
@@ -34,6 +34,7 @@ body {
 	box-sizing: border-box;
 }
 .header {
+  font-family: $font2;
 	height: 100%;
 	position: relative;
 	width: 100%;
