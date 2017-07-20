@@ -13,13 +13,17 @@
 }
 
 // titles
+#title {
+  font-family: $font1;
+}
+
 .title {
 	text-align: center;
 	font-weight: bold;
 	> p {
 		text-align: center;
 		font-weight: bold;
-    font-family: $font1;
+    // font-family: $font1;
 	}
 	> a > p {
 		text-align: center;
