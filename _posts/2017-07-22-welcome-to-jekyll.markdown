@@ -1,7 +1,6 @@
 ---
 layout: post
-title:  "Let's Get Started"
+title:  "1st Project: Trivia Game"
 date:   2017-07-22 13:51:11 +0100
 categories: jekyll update
 ---
-My name is Alex and I am a full-stack web developer who started only 3 months ago.
