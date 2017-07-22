@@ -18,8 +18,7 @@ email: alexandriamhko@gmail.com
 author: Alexandria M. H. Okamoto
 description: Full-stack junior web developer with interests in design, marketing, and making cool stuff.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.co
-m
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  alexandriako
 instagram_username:  alexkerrioka
