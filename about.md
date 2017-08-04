@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: About
 permalink: /about/
@@ -17,4 +17,4 @@ My name is Alex and I am a junior full-stack web developer.
 
 <ul>
   <li>Wearing sneakers: running, hiking, and volleyball</li>
-</ul>
+</ul> -->

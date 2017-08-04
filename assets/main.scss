@@ -28,9 +28,13 @@ html, body {
   position: relative;
 }
 
+img {
+  height: 500px;
+}
+
 .site-header {
-  position: relative;
   padding-top: 20px;
+  text-align: center;
   .page-link {
     font-size: 22px;
   }
@@ -42,12 +46,12 @@ html, body {
   text-transform: uppercase;
   font-weight: 300;
   font-family: 'f37_bella';
-  display: block;
   margin: 5px;
 }
 
 .page-wrapper {
   margin: 20px;
+  // text-align: center;
 }
 
 .page-content {
@@ -57,15 +61,16 @@ html, body {
   // background: rgba(255, 250, 248, 0.5);
   margin: 10px auto;
   margin: 30px;
-  height: 50%;
-  // position: relative;
-  // background-image: url('images/ocean.jpg');
+  height: 60%;
+  position: relative;
+  background-image: url('images/ocean.jpg');
   background: url("./images/ocean.jpg") no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
   overflow: scroll;
+
 
   .home {
     ul {
@@ -81,6 +86,11 @@ html, body {
 
   .post {
     padding: 20px;
+  }
+
+  .main {
+    width: 960px;
+    background-color: white;
   }
 }
 
