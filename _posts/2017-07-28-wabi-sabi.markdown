@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "3rd Project: Wabi Sabi"
+date:   2017-07-28 13:51:11 +0100
+categories: jekyll update
+image: /assets/images/wabi-sabi.png
+---
+![Wabi Sabi](/assets/images/wabi-sabi.png){:class="img-responsive"}

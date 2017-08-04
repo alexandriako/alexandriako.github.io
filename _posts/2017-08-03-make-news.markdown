@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "3rd Project: Wabi Sabi"
+date:   2017-08-02 13:51:11 +0100
+categories: jekyll update
+image: /assets/images/make-news.png
+---
+![Make News](/assets/images/make-news.png){:class="img-responsive"}
