@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Alex  Okamoto
-email: alexandriamhko@gmail.com
+email: alexandriako@ad-libitum.com
 author: Alexandria M. H. Okamoto
 description: Full-stack junior web developer with interests in design, marketing, and making cool stuff.
 baseurl: "" # the subpath of your site, e.g. /blog
