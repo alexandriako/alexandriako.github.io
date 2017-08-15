@@ -38,6 +38,7 @@ img {
 }
 
 .site-header {
+    height: 100px;
   padding-top: 20px;
   text-align: center;
   .page-link {
@@ -94,7 +95,6 @@ img {
     max-width: 80%;
     color: white;
     text-align: center;
-
     h2 {
       border-radius: 1px;
       background-color: rgba(0,0,0,0.15)
