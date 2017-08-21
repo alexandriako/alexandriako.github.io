@@ -37,8 +37,8 @@ img {
   height: 500px;
 }
 
-.site-header {
-    height: 100px;
+header.site-header {
+  height: 100px;
   padding-top: 20px;
   text-align: center;
   .page-link {
@@ -52,7 +52,7 @@ img {
   text-transform: uppercase;
   font-weight: 300;
   font-family: 'f37_bella';
-  margin: 5px;
+  margin: 10px;
 }
 
 .page-wrapper {
@@ -97,7 +97,8 @@ img {
     text-align: center;
     h2 {
       border-radius: 1px;
-      background-color: rgba(0,0,0,0.15)
+      background-color: rgba(0,0,0,0.15);
+      font-size: 28px;
     }
     a {
       color: rgb(255, 153, 204);
@@ -146,6 +147,12 @@ img {
         }
         }
       }
+    }
+}
+
+@media only screen and (min-height: 900px) {
+    main.page-content {
+      height: 70%;
     }
 }
 
